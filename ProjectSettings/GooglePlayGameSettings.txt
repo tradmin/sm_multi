@@ -1,0 +1,10 @@
+lastUpgrade=00936
+proj.pluginVersion=0.9.36
+proj.AppId=485095709330
+and.BundleId=com.tr.smmulti
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0a%3c%21--%0aGoogle+Play+game+services+IDs.%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0a--%3e%0a%3cresources%3e%0a++%3cstring+name%3d%22app_id%22%3e485095709330%3c%2fstring%3e%0a++%3cstring+name%3d%22package_name%22%3ecom.tr.smmulti%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_score_01%22%3eCgkIkrXUj48OEAIQAQ%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_score_02%22%3eCgkIkrXUj48OEAIQAg%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_character_01%22%3eCgkIkrXUj48OEAIQAw%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_character_02%22%3eCgkIkrXUj48OEAIQBA%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_play_time_01%22%3eCgkIkrXUj48OEAIQBQ%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_play_time_02%22%3eCgkIkrXUj48OEAIQBg%3c%2fstring%3e%0a++%3cstring+name%3d%22leaderboard_best_score%22%3eCgkIkrXUj48OEAIQBw%3c%2fstring%3e%0a%3c%2fresources%3e%0a
+and.ClientId=485095709330-hhhpop96tkan5hj47h693gsr0quqd7hi.apps.googleusercontent.com
+proj.requireGPlus=false
+android.SetupDone=true
